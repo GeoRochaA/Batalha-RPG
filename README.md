@@ -8,7 +8,7 @@ O jogador e o inimigo começam com uma certa quantidade de vida (HP). A cada cli
 
 ## 💻 Tecnologias usadas
 
-- HTML5
+- HTML
 - CSS
 - JavaScript 
 
