@@ -1,0 +1,63 @@
+body {
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#000000, #4276c5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .titulo {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .character {
+    margin-bottom:105px;
+  }
+  
+  .hp-bar {
+    background-color: #24c7d357;
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px auto;
+    box-shadow: 0 0 10px #00ccff;
+  }
+  
+  .hp-fill {
+    height: 100%;
+    background: linear-gradient(to right, #ff0000, #00ff15);
+    transition: width 0.3s ease-in-out;
+  }
+  
+  #attackBtn {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    background-color: #111374;
+    color: rgb(251, 255, 19);
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 0 10px #06eec7;
+  }
+  
+  #attackBtn:hover {
+    background-color: #43368f;
+  }
+  
+  #log {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 1px 1px #cc2525;
+  }
+  
