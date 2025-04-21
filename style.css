@@ -30,7 +30,7 @@ body {
     border-radius: 10px;
     overflow: hidden;
     margin: 10px auto;
-    box-shadow: 0 0 10px #00ccff;
+    box-shadow: 0 0 10px #00ccff75;
   }
   
   .hp-fill {
