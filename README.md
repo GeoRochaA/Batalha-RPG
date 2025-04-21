@@ -1,6 +1,6 @@
 # 🛡️ Batalha RPG
 
-Um pequeno jogo de RPG de turnos feito com HTML, CSS e JavaScript. Simples, direto ao ponto e divertido! Ideal para praticar lógica de programação e manipulação do DOM.
+Um pequeno jogo de RPG de turnos feito com HTML, CSS e JavaScript.
 
 ## ⚔️ Como funciona
 
@@ -9,11 +9,7 @@ O jogador e o inimigo começam com uma certa quantidade de vida (HP). A cada cli
 ## 💻 Tecnologias usadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript 
 
-## 🚀 Como rodar
 
-1. **Clone o repositório:**
-
-git clone https://github.com/GeoRochaA/Batalha-RPG.git
